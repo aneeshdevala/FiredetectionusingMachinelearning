@@ -1,0 +1,19 @@
+create database firedetect
+
+create table fireinfo(emailid varchar(50))
+
+create table hardcopy(filename varchar(50))
+
+------------------------------------------------
+
+
+Admin auto
+
+uname, pass
+
+insurance mail
+save
+
+training data upload - browse
+
+insert camera
